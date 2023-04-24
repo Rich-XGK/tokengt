@@ -116,6 +116,7 @@ ENV/
 
 # Weights and Biases logs
 wandb/
+tb/
 
 *.pyc
 *.log

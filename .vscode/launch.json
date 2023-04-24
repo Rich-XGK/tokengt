@@ -9,7 +9,8 @@
             "name": "Python: pcqv2-lap",
             "type": "python",
             "request": "launch",
-            "program": "/usr/local/bin/fairseq-train",
+            // "program": "/usr/local/bin/fairseq-train",
+            "program": "/root/WorkSpace/tokengt/large-scale-regression/fairseq/fairseq_cli/train.py",
             "console": "integratedTerminal",
             "justMyCode": false,
             "args": [
