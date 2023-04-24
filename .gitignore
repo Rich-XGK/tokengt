@@ -124,3 +124,5 @@ wandb/
 *.gz
 *.pt 
 *.pth
+dataset/
+ckpts/
